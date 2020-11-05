@@ -18,9 +18,9 @@
   image:     https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
   completed: true
 
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+- title:     Block Icon Theme
+  url:       https://github.com/TaylanTatli/Block-Icon-Theme
+  image:     https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
   completed: false
 
 - title: Start Page
