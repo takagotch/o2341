@@ -1,4 +1,4 @@
-### ![Page64](https://takagotch.github.io/page64)
+### [Page64](https://takagotch.github.io/page64)
 
 
 
