@@ -1,11 +1,11 @@
-- title:     TKTVT Jekyll Theme
+- title:     TKVTV Jekyll Theme
   url:       http://taylantatli.me/Halve
   image:     http://taylantatli.me/Halve/images/halve-home-image.png
   completed: false
 
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title:     Moon Jekyll Theme
+  url:       http://taylantatli.me/Moon
+  image:     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
   completed: true
 
 - title: Ramme Jekyll Theme
