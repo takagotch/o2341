@@ -2,7 +2,7 @@
 title:       TKVTV
 description: 取引量No.1！当社比
 url:         https://takagotch.github.io/page64/
-logo:      icon.png    # Site logo (150*150)
+logo:      icon.png           # Site logo (150*150)
 logo-sm:   halve-small.png    # Site logo (50*50)
 locale: en_US
 
